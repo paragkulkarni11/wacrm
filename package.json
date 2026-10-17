@@ -49,7 +49,7 @@
     "clsx": "^2.1.1",
     "date-fns": "^4.3.0",
     "lucide-react": "^1.16.0",
-    "next": "16.2.6",
+    "next": "16.3.8",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "shadcn": "^4.2.0",
@@ -68,12 +68,12 @@
     "prettier-plugin-tailwindcss": "^0.8.0",
     "tailwindcss": "^4",
     "typescript": "^6",
-    "vitest": "^4.1.7"
+    "vitest": "^5.0.5"
   },
   "overrides": {
     "postcss": "^8.5.10",
     "ip-address": "^10.1.1",
-    "fast-uri": "^3.1.2",
+    "fast-uri": "^3.1.8",
     "hono": "^4.12.18"
   }
 }
